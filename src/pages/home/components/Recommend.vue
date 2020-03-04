@@ -1,6 +1,6 @@
 <template>
   <div class="recommend">
-    <div class="title">热销推荐</div>
+    <div class="title">1.热销推荐</div>
     <ul>
         <router-link
           tag="li"
